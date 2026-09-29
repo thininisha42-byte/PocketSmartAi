@@ -1,2 +1,2 @@
 # PocketSmartAi
-Ai Argmented Backend Application
+Generative Ai
